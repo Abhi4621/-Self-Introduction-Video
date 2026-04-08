@@ -1,7 +1,7 @@
 👋 Hello, I'm Abhi Pandey
 🎓 About Me
 
-I am a second-year B.Tech student in Computer Science and AI/ML at VIT Bhopal.
+I am a Third-year B.Tech student in Computer Science and AI/ML at VIT Bhopal.
 I am highly motivated, hardworking, and always strive to give my 100% effort in everything I do.
 
 🚀 Interests
